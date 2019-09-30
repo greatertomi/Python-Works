@@ -1,0 +1,1 @@
+num = input("How many students do you want to calculate:")
